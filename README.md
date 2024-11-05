@@ -1,2 +1,2 @@
 # Blum-Clicker
-Python script to claim Blum game. 
+Python script to claim Blum game
